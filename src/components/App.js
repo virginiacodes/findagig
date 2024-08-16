@@ -10,7 +10,7 @@ import About from "./About";
 export default function App() {
   const [isSearchOpen, setisSearchOpen] = useState(false);
 
-  const [currentPage, setCurrentPage] = useState("about");
+  const [currentPage, setCurrentPage] = useState("home");
 
   function handleSearchOpen() {
     setisSearchOpen(!isSearchOpen);
