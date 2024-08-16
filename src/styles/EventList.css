@@ -1,0 +1,15 @@
+.event-list {
+  color: white;
+  list-style: none;
+  width: 50%;
+  display: inline-block;
+}
+
+.gig {
+  width: 50%;
+}
+
+.gig-image {
+  width: 100%;
+  height: 100%;
+}
